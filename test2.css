@@ -1,0 +1,21 @@
+ul{
+    list-style-type: none;
+    border: 2px seagreen;
+    background-color: grey;
+}
+ul a{
+    display: inline-block;
+    color: wheat;
+    margin: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    border: 2px gray;
+}
+ul a:hover{
+    color: yellowgreen;
+    background-color: violet;
+    font-size: large;
+}
+ul a:active{
+    color: tomato;
+}
